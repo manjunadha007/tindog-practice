@@ -125,3 +125,29 @@ p {
 .social-icon {
     margin: 20px 10px;
 }
+/* media Query */
+@media (max-width: 630px) {
+    .Big-heading {
+        font-family: 'Montserrat-Black', sans-serif;
+        font-size: 2.5rem;
+        line-height: 1.5;
+    }
+}
+@media (max-width: 375px) {
+    .Big-heading {
+        font-family: 'Montserrat-Black', sans-serif;
+        font-size: 1.5rem;
+        line-height: 1.5;
+    }
+}
+@media (max-width:950px) {
+    .top-container {
+        text-align: center;
+    }
+
+    .iphone-img {
+        transform: rotate(0);
+        position: static;
+        width: 40%;
+    }
+}
