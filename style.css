@@ -151,3 +151,19 @@ p {
         width: 40%;
     }
 }
+@media (max-width: 550px) {
+    .testimoanial-text {
+        font-size: 1rem;
+        line-height: 1.5;
+    }
+    .pricing-text {
+        font-size: 2rem;
+        line-height: 1.5;
+    }
+}
+@media (max-width: 690px) {
+    .testimoanial-text {
+        font-size: 1rem;
+        line-height: 1.5;
+    }
+}
