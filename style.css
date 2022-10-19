@@ -151,7 +151,7 @@ p {
         width: 40%;
     }
 }
-@media (max-width: 550px) {
+@media (max-width: 650px) {
     .testimoanial-text {
         font-size: 1rem;
         line-height: 1.5;
@@ -161,7 +161,7 @@ p {
         line-height: 1.5;
     }
 }
-@media (max-width: 690px) {
+@media (max-width: 790px) {
     .testimoanial-text {
         font-size: 1rem;
         line-height: 1.5;
